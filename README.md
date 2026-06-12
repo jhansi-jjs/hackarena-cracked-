@@ -168,19 +168,6 @@ hackarena-cracked-/
 └── README.md           # This file
 ```
 
----
-
-## 👥 Team Cracked
-
-Built with 💜 for Mozilla.ai HackerArena 2.0
-
-| Member | GitHub |
-|--------|--------|
-| Jhansi | [@jhansi-jjs](https://github.com/jhansi-jjs) |
-| Tenisha | [@Tenisha5132](https://github.com/Tenisha5132) |
-
----
-
 ## 📄 License
 
 MIT License — feel free to use and build on this!
